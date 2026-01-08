@@ -2227,3 +2227,132 @@ New level has opened
 [2026.01.08-05.03.36:732][448]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2026.01.08-05.03.36:732][448]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2026.01.08-05.03.36:732][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-05.05.44:613][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.08-05.05.54:007][448]LogSlate: Window 'Save Content' being destroyed
+[2026.01.08-05.05.54:022][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-05.05.54:185][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/enemy] ([2] browsable assets)...
+[2026.01.08-05.05.54:715][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/enemy.enemy]
+[2026.01.08-05.05.54:715][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/enemy]
+[2026.01.08-05.05.54:715][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/enemy" FILE="../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/enemy.uasset" SILENT=true
+[2026.01.08-05.05.54:728][448]LogSavePackage: Moving output files for package: /Game/enemy
+[2026.01.08-05.05.54:729][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/enemy403384BE46F37924FE22CDA45DD1C055.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/enemy.uasset'
+[2026.01.08-05.05.54:731][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/enemy2] ([2] browsable assets)...
+[2026.01.08-05.05.54:745][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/enemy2.enemy2]
+[2026.01.08-05.05.54:745][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/enemy2]
+[2026.01.08-05.05.54:753][448]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/enemy2
+[2026.01.08-05.05.54:753][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/enemy2E6AFF9D549712C4E881A73A26D50D265.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/FirstPerson/Blueprints/enemy2.uasset'
+[2026.01.08-05.05.54:760][448]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IA/Y4AIZ5VJDD7GTJR898VZPZ
+[2026.01.08-05.05.54:760][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/Y4AIZ5VJDD7GTJR898VZPZBE508C1E41E10E3E8438AABF59B0EAD5.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IA/Y4AIZ5VJDD7GTJR898VZPZ.uasset'
+[2026.01.08-05.05.54:854][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/lion_head] ([1] browsable assets)...
+[2026.01.08-05.05.54:854][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/lion_head]
+[2026.01.08-05.05.54:859][448]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/lion_head
+[2026.01.08-05.05.54:859][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/lion_head2FE024F54F6FC42C17A3489EAA883897.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/FirstPerson/Blueprints/lion_head.uasset'
+[2026.01.08-05.05.54:861][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/lion_head_diff_1k] ([1] browsable assets)...
+[2026.01.08-05.05.54:862][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/lion_head_diff_1k]
+[2026.01.08-05.05.54:885][448]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/lion_head_diff_1k
+[2026.01.08-05.05.54:885][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/lion_head_diff_1k410FE27A4CAA1EE4B593E1A9B5E3EEAC.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/FirstPerson/Blueprints/lion_head_diff_1k.uasset'
+[2026.01.08-05.05.54:889][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/lion_head_metal_1k] ([1] browsable assets)...
+[2026.01.08-05.05.54:889][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/lion_head_metal_1k]
+[2026.01.08-05.05.54:894][448]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/lion_head_metal_1k
+[2026.01.08-05.05.54:894][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/lion_head_metal_1k859FD5B145615E4928E340872A214A6E.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/FirstPerson/Blueprints/lion_head_metal_1k.uasset'
+[2026.01.08-05.05.54:897][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/lion_head_nor_gl_1k] ([1] browsable assets)...
+[2026.01.08-05.05.54:897][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/lion_head_nor_gl_1k]
+[2026.01.08-05.05.54:928][448]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/lion_head_nor_gl_1k
+[2026.01.08-05.05.54:928][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/lion_head_nor_gl_1kE425A2DE4CF34DC3AA8DE892CE1F8A1D.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/FirstPerson/Blueprints/lion_head_nor_gl_1k.uasset'
+[2026.01.08-05.05.54:930][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/lion_head_rough_1k] ([1] browsable assets)...
+[2026.01.08-05.05.54:930][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/lion_head_rough_1k]
+[2026.01.08-05.05.54:994][448]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/lion_head_rough_1k
+[2026.01.08-05.05.54:994][448]LogSavePackage: Moving '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Saved/lion_head_rough_1k6ECF46184F374CB787DA98AE0292907B.tmp' to '../../../../../../Users/as4d7/OneDrive/Documents/GitHub/designs_by_Rayyan/RayyanAasim_2504669 5.5 5.5 5.5 5.5 5.5 5.5/Content/FirstPerson/Blueprints/lion_head_rough_1k.uasset'
+[2026.01.08-05.05.55:029][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 1.13 sec)
+[2026.01.08-05.05.55:163][448]LogStall: Shutdown...
+[2026.01.08-05.05.55:163][448]LogStall: Shutdown complete.
+[2026.01.08-05.05.55:266][448]LogSlate: Window 'RayyanAasim_2504669 - Unreal Editor' being destroyed
+[2026.01.08-05.05.55:268][448]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.01.08-05.14.47:264][448]LogWindows: Error: === Critical error: ===
+[2026.01.08-05.14.47:264][448]LogWindows: Error: 
+[2026.01.08-05.14.47:264][448]LogWindows: Error: Fatal error!
+[2026.01.08-05.14.47:264][448]LogWindows: Error: 
+[2026.01.08-05.14.47:264][448]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000100000138
+[2026.01.08-05.14.47:264][448]LogWindows: Error: 
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc117047f explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10c3c49 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10c37d8 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947cc14d1 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947cc1554 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947cc1554 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947cc1554 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10cfd20 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10cf1e4 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10c73d0 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc116d402 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10b7110 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10b5979 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10b79bf explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc10ba5c3 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947ccc555 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947ccc1e0 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947ccc1e0 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947ccc1e0 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947ccc1e0 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947ccbf48 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x0000026947c94ac6 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:264][448]LogWindows: Error: [Callstack] 0x00007ffdc1104c11 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdc1104205 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x0000026947ce1e62 DUI70.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb807846 USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb80730c USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x0000026943a68ea0 DUser.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb807846 USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb80730c USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cec8 COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cdf8 COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdc114257c explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdc11424b6 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cec8 COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cdf8 COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdc114e3d9 explorerframe.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cec8 COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cbc4 COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cec8 COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffde134cc9f COMCTL32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb807846 USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb80539d USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb7fe8bb USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb7fdb24 USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb81c057 USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb8532ec USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb853268 USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfbc98df2 COMDLG32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfbc67877 COMDLG32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd7882aeef UnrealEditor-DesktopPlatform.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd78836e52 UnrealEditor-DesktopPlatform.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd3fb01eb9 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd3fae87f3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x000002691a10ec2a UnrealEditor-StaticMeshEditor.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x000002691a0b4b40 UnrealEditor-StaticMeshEditor.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd62fa145c UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd62fbf332 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd62d4a7eb UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd62d354a4 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd62d8f23f UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd62d7d5c6 UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffd62d71f9c UnrealEditor-Slate.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdf030aaf0 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdf02f5786 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdf030d85e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdf02f05b7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb807846 USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb80539d USER32.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdf032bb26 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ff77de1632d UnrealEditor.exe!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ff77de357ac UnrealEditor.exe!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ff77de3589a UnrealEditor.exe!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ff77de39114 UnrealEditor.exe!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ff77de4bd04 UnrealEditor.exe!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ff77de4f0ba UnrealEditor.exe!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: [Callstack] 0x00007ffdfb53e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.01.08-05.14.47:338][448]LogWindows: Error: 
+[2026.01.08-05.14.47:343][448]LogExit: Executing StaticShutdownAfterError
+[2026.01.08-05.14.47:457][448]LogWindows: FPlatformMisc::RequestExit(1, LaunchWindowsStartup.ExceptionHandler)
+[2026.01.08-05.14.47:457][448]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, LaunchWindowsStartup.ExceptionHandler)
+[2026.01.08-05.14.47:457][448]LogCore: Engine exit requested (reason: Win RequestExit)
